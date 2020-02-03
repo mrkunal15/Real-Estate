@@ -1,0 +1,16 @@
+for LinearRegression
+    Scores :
+    Mean:  6.780223586161133
+    SD:  2.6548685461434496
+    
+    
+for DecisionTreeRegressor
+    Scores :
+    Mean:  5.786810359699591
+    SD:  2.442398005595368
+
+
+for RandomForestRegressor
+    Scores :
+    Mean:  4.369336943726218
+    SD:  2.032335850312085
